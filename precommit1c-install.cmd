@@ -1,0 +1,1 @@
+precommit1c --install
